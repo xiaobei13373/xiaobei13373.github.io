@@ -1,72 +1,64 @@
-![Github Forks](https://img.shields.io/github/forks/Yixin0313/personal-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/Yixin0313/personal-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/Yixin0313/personal-homepage-template)
+# 郭金榜的个人主页 | Guo Jinbang's Personal Homepage
 
-# 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
+机器人与人工智能方向本科在读生，专注于机器人导航、机械臂控制、自动化系统开发与 Python 工程实践。  
+I am an undergraduate student in Robotics and Artificial Intelligence, focusing on robot navigation, robotic arm control, automation systems, and Python engineering practice.
 
-## 预览 | Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/personal-homepage-template/main/screenshot_full.png)](https://yixin0313.github.io/personal-homepage-template/)
+## 关于我 | About Me
 
-## 介绍 | Introduction
+- 姓名 / Name: 郭金榜 (Guo Jinbang)
+- 学校 / University: 保定学院（人工智能学院）/ Baoding University, School of Artificial Intelligence
+- 专业 / Major: 机器人工程 / Robotics Engineering
+- 在读时间 / Study Period: 2022.09 - 至今 / Present
+- GPA: 3.2/4.0
+- 邮箱 / Email: `1121167869@qq.com`
+- 电话 / Phone: `13373303746`
 
-这是一个**通用的个人主页模板**，基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 进行修改。  
+## 技术方向 | Technical Focus
 
-我新增了**工作经历板块**，使其更加适用于程序员和求职者。并且使用了中英文对照版本。
+- 机器人导航与路径规划（ROS, Python）  
+  Robot navigation and path planning (ROS, Python)
+- 机械臂驱动调优与任务效率提升  
+  Robotic arm tuning and task-efficiency optimization
+- Python 自动化开发与网络通信（TCP、多线程）  
+  Python automation and network communication (TCP, multithreading)
+- Linux 开发环境与工程化实践  
+  Linux-based development environment and engineering practices
 
-This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
+## 项目亮点 | Project Highlights
 
-I have added a **work experience section**, making it more practical for programmers and job seekers.
+### 睿抗机器人开发者大赛（主负责人） | RAICOM Robot Developer Competition (Lead)
+- 在 Linux 环境下使用 Python 优化 ROS 导航与路径规划，实现机器人自主导航执行抓取任务。  
+  Optimized ROS navigation and path planning in Python on Linux for autonomous robot grasping tasks.
+- 优化机械臂驱动与固件流程，将单次抓取步骤耗时从约 20 秒降低到约 5 秒。  
+  Improved robotic arm driver/firmware workflow and reduced each grasping step from ~20s to ~5s.
 
-Bilibili教程视频：【【2025最新保姆级教程】手把手教你用github制作个人主页（申学找工作必备）】https://www.bilibili.com/video/BV16nNMeFEzm?vd_source=79b688b1a191b9f9e8204aa1c3d0adab
+### 西门子黑客马拉松（队长） | Siemens Hackathon (Team Leader)
+- 24 小时内完成物流分拣机器人系统从 0 到 1 的搭建与联调。  
+  Built and integrated a robotic logistics sorting system from zero to one within 24 hours.
+- 使用 Python 搭建 TCP Server，结合多线程实现机械臂状态控制与分拣任务执行。  
+  Built a Python TCP server with multithreading to control arm states and execute sorting tasks.
 
-CSDN教程：https://blog.csdn.net/qq_45743991/article/details/145505150?spm=1001.2014.3001.5502
+### 华北五省机器人书画赛（队长） | North China Five-Province Robot Calligraphy Competition (Team Leader)
+- 使用 Python 清洗坐标数据并完成 `plt` 到 `dobot` 的格式转换。  
+  Cleaned coordinate data in Python and converted file format from `plt` to `dobot`.
+- 设计落笔与抬笔算法，提升书写连贯性与视觉效果。  
+  Designed pen-down/pen-up algorithms to improve writing fluency and output quality.
 
-## 快速开始 | Getting Start
-### 1. Fork 该仓库 | Fork this repository
-仓库名称应命名为 `<用户名>.github.io`，这样你的个人网站地址将是 `https://<用户名>.github.io/`。
+## 校园经历与成果 | Campus Experience and Achievements
 
-The repository name should be `<username>.github.io`, which will also be your website's URL.
+- AI 先锋俱乐部主席（2024.10 - 至今），负责年度规划、企业技术对接与成员培训。  
+  President of AI Pioneer Club (2024.10 - Present), responsible for annual planning, industry collaboration, and member training.
+- 推动团队竞赛成果产出，俱乐部累计获得国家级奖项 10 余项、省级奖项 50 余项。  
+  Supported competition outcomes with 10+ national and 50+ provincial awards achieved by the club.
 
+## 证书 | Certifications
 
-### 2.  编辑页面内容 | Edit page content
-(1) 进入你想存放项目的文件夹，并克隆新的仓库 | Go to the folder where you want to store your project, and clone the new repository:
-```
-git clone https://github.com/<username>/<username>.github.io.git
-```
-项目的目录结构如下 | The directory structure is as follows:
+- 全国计算机等级考试二级 / National Computer Rank Examination Level 2
+- 全国计算机等级考试三级 / National Computer Rank Examination Level 3
+- 普通话二级证书 / Putonghua Proficiency Certificate (Level 2)
+- C1 驾驶证 / C1 Driver's License
 
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
-```
+## 网站说明 | Website Notes
 
-(2) 修改各个板块的内容 | Modify the content of each section, which corresponds to `contents/*.md`.
-
-(3) 调整网站设置 | Adjust the title, copyright information, and other text of the website in `contents/config.yml`
-
-(4) 替换图片 | Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) 提交更改 | Push it: 
-```
-git commit -am 'init'
-git push
-```
-
-
-### 3. 访问你的网站 | Enjoy
-
-打开浏览器，访问 https://<用户名>.github.io，即可查看你的个人主页
-
-Fire up a browser and go to `https://<username>.github.io`
-
-
-
-## License
-本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
-
-Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
+本仓库用于维护我的个人主页内容，主要页面文件位于 `contents/` 目录。  
+This repository maintains the content of my personal website, with main page files under `contents/`.

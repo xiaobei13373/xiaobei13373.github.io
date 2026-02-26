@@ -22,3 +22,7 @@ Undergraduate student in Robotics and AI, focused on robot development, automati
 - 机器人导航与路径规划 / Robot Navigation and Path Planning
 - 机械臂控制与任务优化 / Robotic Arm Control and Task Optimization
 - 基于 Python 的自动化系统开发 / Python-based Automation Systems
+
+#### 代表成果 / Selected Achievement
+- ICRA 2026 录用论文：**Dexora: Open-source VLA for High-DoF Bimanual Dexterity**（Contributed Paper, #209）。  
+  Accepted Paper at ICRA 2026: **Dexora: Open-source VLA for High-DoF Bimanual Dexterity** (Contributed Paper, #209).

@@ -1,5 +1,8 @@
 ### 论文与发表 / Publications
 
-- 当前暂无公开发表论文，后续将持续更新。  
-  No publicly published papers at present; updates will be added in the future.
+- **Dexora: Open-source VLA for High-DoF Bimanual Dexterity**  
+  Zongzheng Zhang, Jingrui Pang, Zhuo Yang, Kun Li, Minwen Liao, Saining Zhang, Guoxuan Chi, **Jinbang Guo**, et al.  
+  **2026 IEEE International Conference on Robotics and Automation (ICRA 2026)**, Accepted as Contributed Paper (Submission #209).  
+  论文已录用，并将收录于会议论文集（IEEE Xplore）。  
+  Accepted for presentation at ICRA 2026 and inclusion in the conference proceedings (IEEE Xplore).
 

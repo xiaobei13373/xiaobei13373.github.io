@@ -1,6 +1,5 @@
-- XXXXXXX论文
+### 论文与发表 / Publications
 
-- XXXXXXX论文
-
-- XXXXXXX论文
+- 当前暂无公开发表论文，后续将持续更新。  
+  No publicly published papers at present; updates will be added in the future.
 
